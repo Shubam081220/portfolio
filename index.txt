@@ -3,19 +3,19 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Jaskaran Singh Walia
-Jaskaran Singh Walia
+A Shubam Lunawat
 Student at VIT Chennai
 
 Show Contacts
 
 Email
-karanwalia2k3@gmail.com
+shubamlunawat@gmail.com
 
 Phone
-+91 7708293783
++91 7700033340
 
 
-October 27, 2003
+December 08, 2004
 
 Location
 Chennai, India
